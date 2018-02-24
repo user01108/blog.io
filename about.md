@@ -5,9 +5,13 @@ description: "陈林琛 "
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+不是尘埃，也不是人才。
 
+email:bwu@live.com
 
+weibo:@用户01108
+
+telegram:@user01108
 
 
 
